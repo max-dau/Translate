@@ -3,29 +3,28 @@
 | Language | Done % | Updates Needed |
 | -------- | -----: | -------------: |
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
-| [de-DE](#de-DE) | 80% | 1 |
+| [de-DE](#de-DE) | 89% | 1 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
-| [es-MX](#es-MX) | 80% | 1 |
-| [fa-IR](#fa-IR) | 20% | ✔ 0 |
+| [es-MX](#es-MX) | ✔ 100% | 1 |
+| [fa-IR](#fa-IR) | 22% | ✔ 0 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
-| [fr-FR](#fr-FR) | 80% | ✔ 0 |
-| [it-IT](#it-IT) | 80% | 1 |
-| [ja-JP](#ja-JP) | 70% | ✔ 0 |
+| [fr-FR](#fr-FR) | 89% | ✔ 0 |
+| [it-IT](#it-IT) | 78% | 1 |
+| [ja-JP](#ja-JP) | 67% | ✔ 0 |
 | [ko-KR](#ko-KR) | 0% | ✔ 0 |
 | [mt-MT](#mt-MT) | 0% | ✔ 0 |
-| [nl-NL](#nl-NL) | 80% | 1 |
-| [pl-PL](#pl-PL) | 70% | ✔ 0 |
+| [nl-NL](#nl-NL) | 78% | 1 |
+| [pl-PL](#pl-PL) | 67% | ✔ 0 |
 | [pt-PT](#pt-PT) | 0% | ✔ 0 |
 | [ru-RU](#ru-RU) | 0% | ✔ 0 |
 | [sk-SK](#sk-SK) | 0% | ✔ 0 |
 | [sv-SE](#sv-SE) | 0% | ✔ 0 |
-| [zh-CN](#zh-CN) | 80% | 2 |
+| [zh-CN](#zh-CN) | 78% | 1 |
 ## Details
 ### bg-BG
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -40,8 +39,7 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ✔ | ✔ | - |
-| dig-deeper.po | ? | ? | missing |
+| dig-deeper.po | ✔ | ✔ | - |
 | diseases.po | ? | ? | missing |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
@@ -55,7 +53,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -70,7 +67,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ✔ | ✔ | - |
 | dig-deeper.po | ✔ | ✔ | - |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
@@ -85,7 +81,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ? | ? | missing |
@@ -100,7 +95,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -115,12 +109,11 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ✔ | ✔ | - |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| papers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | ✔ | - |
@@ -130,7 +123,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ✔ | ✔ | - |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
@@ -145,7 +137,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ✔ | ✔ | - |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
@@ -160,7 +151,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -175,7 +165,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -190,7 +179,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ✔ | ✔ | - |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
@@ -205,7 +193,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ✔ | ✔ | - |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
@@ -220,7 +207,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -235,7 +221,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -250,7 +235,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -265,7 +249,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
@@ -280,7 +263,6 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
 | dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
